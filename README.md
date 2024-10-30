@@ -1,7 +1,7 @@
 # ABC-Call-Volume-Trend-Analysis
 
 
-Project Description
+Project Description :
 The project aims to analyze the dataset of an ABC company's inbound call center for the insurance category. The dataset includes information such as agent names, queue time, call time, call duration, call status, and other relevant details.
 
 The objectives of the project are to calculate the average call time duration for incoming calls in each time bucket, visualize the total volume of calls over time, and propose a manpower plan to reduce the abandon rate to 10% during specific time periods.
